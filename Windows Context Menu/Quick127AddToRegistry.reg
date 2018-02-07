@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\Quick127]
+@="Quick127"
+
+[HKEY_CLASSES_ROOT\*\shell\Quick127\command]
+@="C:\\Program Files\\Quick127\\Quick127.exe %1"
+

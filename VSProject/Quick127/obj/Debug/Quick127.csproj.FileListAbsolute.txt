@@ -1,0 +1,4 @@
+u:\documents\visual studio 2015\Projects\Quick127\Quick127\bin\Debug\Quick127.exe.config
+u:\documents\visual studio 2015\Projects\Quick127\Quick127\obj\Debug\Quick127.Form1.resources
+u:\documents\visual studio 2015\Projects\Quick127\Quick127\obj\Debug\Quick127.Properties.Resources.resources
+u:\documents\visual studio 2015\Projects\Quick127\Quick127\obj\Debug\Quick127.csproj.GenerateResource.Cache
