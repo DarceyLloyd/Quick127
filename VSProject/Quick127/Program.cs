@@ -19,18 +19,18 @@ namespace Quick127
         [STAThread]
         static void Main(string[] args)
         {
-            if (args.Length < 1)
+            if (args.Length < 2)
             {
                 MessageBox.Show("Quick127: No path given, use me correctly!");
                 return;
             }
 
-            String input = args[0].ToString();
-            String url = input;
-            //url = url.ToLower();
-            url = url.Replace("W:\\www","http:\\\\127.0.0.1");
+            String path = args[0].ToString();
+            String file = args[1].ToString();
+            String url = file.Replace(path,"http:\\\\127.0.0.1");
 
-            //MessageBox.Show("Quick127: " + url);
+            //String msg = "Quick127 message:\n path = " + path + "\n" + "file = " + file + "\n" + "url = " + url + "\n";
+            //MessageBox.Show(msg);
             Process.Start("chrome.exe", url);
 
 

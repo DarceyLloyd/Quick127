@@ -8,3 +8,13 @@ u:\documents\visual studio 2015\Projects\Quick127\Quick127\obj\Release\Quick127.
 u:\documents\visual studio 2015\Projects\Quick127\Quick127\obj\Release\Quick127.exe
 u:\documents\visual studio 2015\Projects\Quick127\Quick127\obj\Release\Quick127.pdb
 u:\Documents\Visual Studio 2015\Projects\Quick127\Quick127\obj\Release\Quick127.csproj.CoreCompileInputs.cache
+W:\www\GIT\Quick127\VSProject\Quick127\bin\Release\Quick127.exe.config
+W:\www\GIT\Quick127\VSProject\Quick127\bin\Release\Quick127.exe
+W:\www\GIT\Quick127\VSProject\Quick127\bin\Release\Quick127.pdb
+W:\www\GIT\Quick127\VSProject\Quick127\obj\Release\Quick127.csprojAssemblyReference.cache
+W:\www\GIT\Quick127\VSProject\Quick127\obj\Release\Quick127.Form1.resources
+W:\www\GIT\Quick127\VSProject\Quick127\obj\Release\Quick127.Properties.Resources.resources
+W:\www\GIT\Quick127\VSProject\Quick127\obj\Release\Quick127.csproj.GenerateResource.cache
+W:\www\GIT\Quick127\VSProject\Quick127\obj\Release\Quick127.csproj.CoreCompileInputs.cache
+W:\www\GIT\Quick127\VSProject\Quick127\obj\Release\Quick127.exe
+W:\www\GIT\Quick127\VSProject\Quick127\obj\Release\Quick127.pdb
